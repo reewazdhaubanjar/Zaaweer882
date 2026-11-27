@@ -44,7 +44,7 @@
       "firstTokenTimeoutMs": 20000
     },
     "render": {
-      "url": "t"
+      "url": "https://sujancoreapi.onrender.com/chat"
     }
   },
   "speech": {
