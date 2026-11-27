@@ -1,23 +1,25 @@
 {
-  "$comment": "Global Proxima configuration — change her name, version, identity, AI models, coding model, voice engines, defaults, and feature switches in one place. Keep secret API keys in .env.local / Vercel env vars (never here).",
+  "$comment": "Global Jigu Ai configuration — change her name, version, identity, AI models, coding model, voice engines, defaults, and feature switches in one place. Keep secret API keys in .env.local / Vercel env vars (never here).",
   "app": {
-    "name": "PROXIMA",
-    "shortName": "Proxima",
+    "name": "Jigu Ai",
+    "shortName": "Jigu Ai",
     "tagline": "Premium Core AI",
-    "description": "PROXIMA answers plainly. Code, files and long questions in one quiet, private chat — with voice input and live replies.",
+    "description": "Jigu Ai answers plainly. Code, files and long questions in one quiet, private chat — with voice input and live replies.",
     "version": "1.0.2VBETA",
-    "defaultTheme": "proxima"
+    "defaultTheme": "Jigu Ai"
   },
   "identity": {
-    "name": "Proxima",
-    "gender": "female",
-    "bornAtIso": "2026-05-25T00:00:00Z",
+    "name": "Jigu Ai",
+    "gender": "male",
+    "bornAtIso": "2026-11-25T00:00:00Z",
     "developers": {
-      "lead": "Sujan Shrestha",
-      "support": "Aayusha Shrestha"
+      "lead": "Reewaz Dhaubanjar",
+      "support": "Prasis Kasula",
+      "support": "Tezendra Wagle",
+      "support": "Manjil Shilpakar"
     },
     "links": {
-      "facebook": "https://m.facebook.com/profile.php?id=61583876866265"
+      "facebook": "undefined"
     },
     "systemPromptExtras": ""
   },
@@ -42,7 +44,7 @@
       "firstTokenTimeoutMs": 20000
     },
     "render": {
-      "url": "https://sujancoreapi.onrender.com/chat"
+      "url": "t"
     }
   },
   "speech": {
